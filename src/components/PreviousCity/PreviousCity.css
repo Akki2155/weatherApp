@@ -1,0 +1,12 @@
+.lastcityContainer{
+    text-align: left;
+}
+
+.lastcityContainer h3{
+   font-size: 32px;
+}
+
+.lastcityContainer li{
+    list-style: none;
+    font-size: 22px;
+}

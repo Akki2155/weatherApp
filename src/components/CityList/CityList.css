@@ -1,0 +1,14 @@
+.cityNameContainer{
+    width: 101.5%;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 2px;
+    text-align: left;
+}
+
+.cityNameContainer:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
